@@ -1,13 +1,22 @@
 {
-  "botToken": "YOUR_BOT_TOKEN",
-  "guildId": "YOUR_GUILD_ID",
-  "ownerIds": ["0000000000000000", "0000000000000"],
+  "botToken": "MAIN_BOT_TOKEN",
+  "guildId": "CONTROL_GUILD_ID",
+
+  "ownerIds": [
+    "OWNER_USER_ID"
+  ],
+
   "whitelistRoleId": "WHITELIST_ROLE_ID",
-  "alertCategoryName": "SPYBOT",
+  "alertCategoryName": "7Seven Alerts",
+
   "selfbots": [
     {
-      "name": "SELFOTBOT NAME",
-      "token": "SB_TOKEN"
+      "name": "Monitor-01",
+      "token": "ACCOUNT_TOKEN_1"
+    },
+    {
+      "name": "Monitor-02",
+      "token": "ACCOUNT_TOKEN_2"
     }
   ]
 }
