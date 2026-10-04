@@ -1,0 +1,16 @@
+[
+  {
+    "id": "kw_1789766602579",
+    "ownerId": "1304767970417053809",
+    "pattern": "trvs",
+    "isRegex": true,
+    "active": true
+  },
+  {
+    "id": "kw_1789820712774",
+    "ownerId": "434744591212740608",
+    "pattern": "UHQ",
+    "isRegex": false,
+    "active": true
+  }
+]

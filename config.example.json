@@ -1,0 +1,13 @@
+{
+  "botToken": "YOUR_BOT_TOKEN",
+  "guildId": "YOUR_GUILD_ID",
+  "ownerIds": ["0000000000000000", "0000000000000"],
+  "whitelistRoleId": "WHITELIST_ROLE_ID",
+  "alertCategoryName": "SPYBOT",
+  "selfbots": [
+    {
+      "name": "SELFOTBOT NAME",
+      "token": "SB_TOKEN"
+    }
+  ]
+}
