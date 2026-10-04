@@ -1478,7 +1478,7 @@ function buildAlertComponents(
 
   const title =
     isKeyword
-      ? '🔎 Keyword detected'
+      ? '🕷️ Keyword detected'
       : '👁️ Watched user activity';
 
   const color =
